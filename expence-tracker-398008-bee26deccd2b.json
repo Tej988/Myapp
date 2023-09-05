@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "expence-tracker-398008",
+  "private_key_id": "bee26deccd2bf0f7f2814f193770b6f53a4a112a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDP2kp52IF1GI93\nsfCJypDu1dSim3Nenb4KcweyXSiY4HHp2BXIjY+AZjJCnZkPwrEov14OxLF5feY2\nP93NpwYUd6KOnuP6qMeZvgf4GybyAa2ORfwi7Ia9Wq6fpJKV7F3TFA1XZHc0VCNj\nD1C+55obaphDOpwDOGN/5HHTu++DXV0zcsga2pbF3dPe470YD4VQQEJJTav5MVrA\nt02tmXxYn9OZ8A8TgTlplADniaiENpS5JjoomAfJ9CJn7cmd1KHQDGIVizG3Rp2O\ng2eMQ6FD9qAv5eT6+dwLd4BeexqS13bofO0uvHTXDMmHULHnxcmwSclFq4JMFAsd\ndX2hAAizAgMBAAECggEADB4Lws1jxAcp21kyTrYn0OStFXW+j2uJeA57X7idSfGm\ncnLjLOKj1QvK2PtbFazMqzV3hEuPP9KefdcnVSVBmNEzVuEzJUUlrcmC/sHbzrau\nVDcG8KTyuKNKvt/XSTTocLUgj1G6FADmYeYIrQ3PfChbYWqkocNtzuJAiI7SSHQp\nUSNIlQDHRTqkGI83bevWy+lcy8q8uYTylgfHeaaCi+Tv2WH8Y4Iq9a2JnyGelQsp\nW3oaebEPqyeAMSIXrJ/lctVPVH8NDcAIR7XOd6+x3gxFkOhzhlIqTS9askMwa5PY\nKYTNFYQ0CVY6/lw61aEPl6PXVivAQK40KlQs0tIPQQKBgQD4xN+zDnLfdiZas4AC\nvdIdZChWdu9NzvDBDR09lRGNzwJw7MHPtHGhJQJ6KnaIki/yCy+Ww4oO0wlKdeVw\nu0nyt6cxhwLHo8vndjg8+U7k4SE37FhC+F7jTjmHosZk4eH9Hpd4NUhTZlnmrx7k\nDMMuLvXuUIbvfI3noJ1HKvENQwKBgQDV5PPmQq00BxccZnGe8EndgjdpCrpaIKue\n/xGKtOtaQL/A3NqY4L5PVUlA65TojkB0lSnVIB29LrhpNluOh4jNjjoSpCwGDWu+\nu7uhvb0EuRSvV9T8R6PokVrs4Hn37d7BqN2k4iOqmx3kR223Cfb0zAILgynFez88\ngvEEL6Un0QKBgFyVsQfL/dbK+zVQjvj2OqfzqcucUi3sMdA3mEVeIH1dqPPsOama\n55to0cYz3Y+wkKWNojWDKvOfeVq8DBtrqPbrgQ8+xzsT7ASGDCItSz6Fxz4v+R1b\noL0KVQD1BM9w/hGdfBQiCHv5oMXpMR8A3PdoROFgGQgynAGz1jUxdytPAoGAUCnY\nxymiJGer37b9SmYgKOaOwc2FfhXUfGh4OJYJxu+RbkTXoIhKiw0ZwT0JuAboXUky\nPnAk9Sw3bSc0NTzSpsdxOF9TKImLIhbWAY5M8yIygGzYpBxtb9JaU4Dl9WevHsGd\nIBio6V3tXArxMbKIXcK/2XS1CRBh6NniXoFE0qECgYEAzaRq5OUQgkYtEinsYABD\ngmEdYTcRi3wkhfXORE5hSDh49QaPYOxSpEEsmCULqJ4yJlXNhF1T4aTHAtER3mZL\nI+qAHx+502xARM93+Id++kEWiowGnQGaLhSCVOutEWsUlqnACKOFH1ISGi1FSL3Z\nSiUuvpzhREGKNoYUFPutTNQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "expence-tracker@expence-tracker-398008.iam.gserviceaccount.com",
+  "client_id": "111583179373357399263",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/expence-tracker%40expence-tracker-398008.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
